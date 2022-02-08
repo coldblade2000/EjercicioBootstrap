@@ -1,0 +1,35 @@
+header {
+    background-color: #5d4a3f;
+    color: white;
+}
+nav {
+    background-color: #c58d80;
+}
+
+.leftmenu {
+    background-color: orange;
+    display: ;
+}
+
+.contentX {
+    background-color: beige;
+}
+.photorowA > .photo:nth-child(odd) {
+    background-color: #c96778;
+}
+.photorowA > .photo:nth-child(even) {
+    background-color: #00a1b2;
+}
+
+.photorowB > .photo:nth-child(odd) {
+    background-color: #00a1b2;
+}
+.photorowB > .photo:nth-child(even) {
+    background-color: #c96778;
+}
+footer > div {
+    background-color: #5d4a3f;
+}
+main.row{
+    flex-grow: 1;
+}
